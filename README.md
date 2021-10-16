@@ -3,6 +3,12 @@
 Some tools for making composite clips of multiple similar shots overlayed on each-other.
 Looks a bit like super meat boy's after-level thing.
 
+Used to make: <https://www.youtube.com/watch?v=Vr6X2Z6Ag2w>
+
+<p align="center">
+  [<img width="500" src="https://raw.githubusercontent.com/XertroV/43-attempts/4b9c6da2233cdfbb1ef4a6d6ad73402a234f4899/preview.png?raw=true">](https://www.youtube.com/watch?v=Vr6X2Z6Ag2w)
+</p>
+
 ## prep
 
 You can download the original files via `./download-originals.sh`. This downloads `r{1,2,3,4}.m4v`
