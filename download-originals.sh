@@ -5,7 +5,7 @@ function dodownload {
 }
 
 function dlvid {
-    dodownload "https://maxkaye.s3.wasabisys.com/upload/$1" "test-$1"
+    dodownload "https://maxkaye.s3.wasabisys.com/upload/$1" "$1"
 }
 
 dlvid r1.m4v

@@ -44,7 +44,7 @@ General idea:
 8. also drag main underlying footage beneath them (so they show up on top)
 9. physically align all clip sequences so the framing matches
 10. align the start of attempts in each sequence
-11. title, sounds tuff, export, done
+11. title, sound stuff, export, done
 
 ## about
 
