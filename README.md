@@ -1,7 +1,7 @@
 # README
 
 Some tools for making composite clips of multiple similar shots overlayed on each-other.
-Looks a bit like super meat boy's after-level thing.
+Looks a bit like [super meat boy's after-level thing](https://youtu.be/GLfYKo9KbJc?t=5696).
 
 Used to make: <https://www.youtube.com/watch?v=Vr6X2Z6Ag2w>
 
